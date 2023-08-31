@@ -260,7 +260,7 @@ def main():
     agent = Agent(INPUT_SIZE, HIDDEN_SIZE, OUTPUT_SIZE)  # Init agent
 
     # Load existing state dictionary (optional)
-    load_path = "models/example_model.pth"
+    load_path = "example_model.pth"
     agent.Q_eval.load_state_dict(torch.load(load_path))
 
     scores = []
