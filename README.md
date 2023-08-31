@@ -7,3 +7,5 @@ MazeGenerationKeyInput.py allows for a visualization of what the ANN 'sees' when
 mazeDQN.py is the implementation of the standard DQN (including dropout layers) as described in DeepMind's 2015 paper.
 
 mazeDoubleDQN.py is the implementation of the Double DQN as described by Hasselt et al. (2016) extended to use soft target updates.
+
+Enjoy!
