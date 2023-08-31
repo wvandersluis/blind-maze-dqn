@@ -2,7 +2,7 @@
 
 _Training of a Deep Neural Network to find its way through a maze using Deep Q-Learning._
 
- - 'MazeGenerationKeyInput.py' allows for a visualization of what the ANN 'sees' when solving the maze.
+ - 'MazeGenerationKeyInput.py' allows for an interactive visualization of what the ANN 'sees' when solving the maze.
 
  - 'mazeDQN.py' is the implementation of the standard DQN (including dropout layers) as described in DeepMind's 2015 paper.
 
